@@ -32,14 +32,17 @@
 
 </div>
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/Nexvir/XHTTP-Installer/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/Nexvir/XHTTP-Installer-plus/main/install.sh)
 ```
 
 ---
 
 این مخزن نسخهٔ فورک‌شده و بهبود یافتهٔ پروژهٔ اصلی است. صاحب اصلی پروژه: Copyright © 2025 @avaco_cloud — https://github.com/avacocloud/XHTTP-Installer
 
-این فورک توسط Nexvir نگهداری می‌شود: https://github.com/Nexvir
+این فورک توسط Nexvir نگهداری می‌شود: https://github.com/Nexvir/XHTTP-Installer-plus
+
+این نسخهٔ سفارشی‌شده توسط: Nexvir
+تماس: non
 
 **تغییرات و ارتقاهای اعمال‌شده روی این فورک:**
 

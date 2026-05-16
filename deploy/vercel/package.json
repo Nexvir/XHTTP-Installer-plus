@@ -10,11 +10,11 @@
   "private": true,
   "license": "GPL-3.0",
   "keywords": ["xhttp", "vless", "vercel", "3x-ui", "ubuntu", "relay", "installer"],
-  "author": "avaco_cloud",
-  "homepage": "https://github.com/avacocloud/XHTTP-Installer",
+  "author": "Nexvir",
+  "homepage": "https://github.com/Nexvir/XHTTP-Installer-plus",
   "repository": {
     "type": "git",
-    "url": "https://github.com/avacocloud/XHTTP-Installer.git"
+    "url": "https://github.com/Nexvir/XHTTP-Installer-plus.git"
   },
-  "buildId": "avc-7f3a92e1-2025-avacocloud"
+  "buildId": "nex-2026-custom"
 }
