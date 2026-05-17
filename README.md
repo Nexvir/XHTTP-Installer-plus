@@ -31,8 +31,8 @@
 ### ⚡ نصب سریع با یک دستور
 
 </div>
-```Bash
-bash <(curl -fsSL https://raw.githubusercontent.com/Nexvir/XHTTP-Installer-plus/main/install.sh)
+```bash
+bash <(curl -fsSL https://raw.githubusercontent.com/avacocloud/XHTTP-Installer/main/install.sh)
 ```
 
 ---
