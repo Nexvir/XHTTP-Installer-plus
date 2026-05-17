@@ -31,7 +31,7 @@
 ### ⚡ نصب سریع با یک دستور
 
 </div>
-```bash
+```Bash
 bash <(curl -fsSL https://raw.githubusercontent.com/Nexvir/XHTTP-Installer-plus/main/install.sh)
 ```
 
