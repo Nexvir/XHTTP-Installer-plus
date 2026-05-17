@@ -31,6 +31,7 @@
 ### ⚡ نصب سریع با یک دستور
 
 </div>
+
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/avacocloud/XHTTP-Installer/main/install.sh)
 ```
